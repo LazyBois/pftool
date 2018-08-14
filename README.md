@@ -1,4 +1,8 @@
+[TOC]
+
 # PF-tool
+
+## web
 
 - work
 
@@ -8,7 +12,6 @@
 
   - tag1
   - tag2
-  - export API to world
 
 - manarge
 
@@ -19,6 +22,8 @@
     > The parameter list of a function must include the serverID
     >
     > The return value of a function must include result and desc
+
+  - export API to world
 
   - url
 
@@ -42,3 +47,14 @@
 
   - authority management
   - other
+
+##  install
+
+- windows
+  - apache2.4
+  - php
+- linux
+
+## about
+
+code url : https://github.com/LazyBois/pftool/tree/master
